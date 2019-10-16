@@ -1,0 +1,22 @@
+body {
+    background-color: pink;
+    font-family: sans-serif;
+}
+
+h1 {
+   color: blue;
+   Font-family:
+}
+body {
+  width: 500px;
+  height: 1400px;
+  margin: 0 auto;
+}
+
+h2 {
+  position: fixed;
+  top: 0;
+  width: 500px;
+  margin: 0 auto;
+  background: white;
+  padding: 10px;

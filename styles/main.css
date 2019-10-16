@@ -1,8 +1,22 @@
 body {
- background-color: pink;
- font-family: sans-serif;
+    background-color: pink;
+    font-family: sans-serif;
 }
 
-h1{
-  color: blue;
+h1 {
+    color: blue;
+    Font-family: Francois One;
+}
+
+h2 {
+    color:lightskyblue;
+    Font-family: Francois One;
+}
+h3 {
+    color:lightskyblue;
+    Font-family: Francois One;
+}
+h4 {
+    color:lightskyblue;
+    Font-family: Francois One;
 }
