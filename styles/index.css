@@ -1,0 +1,12 @@
+.img3 {
+  float: right;
+  margin-right: 300px;
+  width: 100px;
+  height:100px;
+}
+.img4 {
+  float: left;
+  margin-left: 300px;
+  width: 100px;
+  height:100px;
+}
