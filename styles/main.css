@@ -4,11 +4,13 @@ body {
 }
 
 h1 {
+    text-shadow: 2px 2px 3px black;
     color: blue;
     Font-family: Francois One;
 }
 
 h2 {
+    text-shadow: 2px 2px 3px black;
     color: lightskyblue;
     Font-family: Francois One;
 }
@@ -47,4 +49,4 @@ tfoot {
     background-color: blue;
     color: greenyellow;
 }
-
+p.solid {border-style: solid}
