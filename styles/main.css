@@ -9,16 +9,40 @@ h1 {
 }
 
 h2 {
-    color:lightskyblue;
+    color: lightskyblue;
     Font-family: Francois One;
 }
+
 h3 {
-    color:lightskyblue;
+    color: lightskyblue;
     Font-family: Francois One;
 }
+
 a:hover {
-    color:aquamarine;
+    color: aquamarine;
 }
+
 .center_text {
     text-align: center;
 }
+
+ul {
+    text-align: center;
+    list-style: inside;
+}
+
+ol {
+    text-align: center;
+    list-style: inside;
+}
+
+table,
+td {
+    border: 1px solid #333;
+    color: black
+}
+
+thead,
+tfoot {
+    background-color: blue;
+    color: greenyellow;
